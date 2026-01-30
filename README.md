@@ -15,9 +15,8 @@ This project focuses on essential data preprocessing techniques used in Machine 
 ---
 
 ## Dataset
-One of the following datasets was used:
-- House Prices Dataset  
-- Medical Appointment No Shows Dataset  
+The following datasets was used:
+- House Prices Dataset    
 
 (The dataset is loaded locally in CSV format.)
 
